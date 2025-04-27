@@ -1,0 +1,5 @@
+.stats-view-container {
+  display: flex;
+  width: 100%;
+  padding: 5px;
+}
